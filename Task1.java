@@ -26,12 +26,12 @@ public class Main {
 
         int sum = a + b;
         int dif = a - b;
-        int mul = a*b;
-        double div = (double)a/b;
+        int mul = a * b;
+        double div = (double)a / b;
 
-        System.out.print("a + b = " + sum);
-        System.out.print("a - b = " + dif);
-        System.out.print("a * b = " + mul);
-        System.out.print("a / b = " + div);
+        System.out.println("a + b = " + sum);
+        System.out.println("a - b = " + dif);
+        System.out.println("a * b = " + mul);
+        System.out.println("a / b = " + div);
     }
 }
