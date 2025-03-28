@@ -29,6 +29,9 @@ public class Main {
         int mul = a*b;
         double div = (double)a/b;
 
-        System.out.print("a + b = " + sum + "\n" + "a - b = " + dif + "\n" + "a * b = " + mul + "\n" + "a / b = " + div);
+        System.out.print("a + b = " + sum);
+        System.out.print("a - b = " + dif);
+        System.out.print("a * b = " + mul);
+        System.out.print("a / b = " + div);
     }
 }
